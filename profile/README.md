@@ -1,8 +1,4 @@
-Sure, here's a brief introduction in English for your organization:
-
----
-
-Hello there! 👋
+# Hello there! 👋
 
 Our organization is all about making software development more accessible and straightforward, with a vision that everyone can be a product manager and an engineer. Here's a snapshot of what we're about:
 
